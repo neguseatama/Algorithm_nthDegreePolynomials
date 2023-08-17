@@ -2,7 +2,7 @@
 * IWASAKI Kai
 
 ## Overview
-* Algorithm : nth degree Polynomials in C++
+* Algorithm : nth degree polynomials in C++
 * C++によるn次方程式の解の計算アルゴリズム
 
 ## Description
